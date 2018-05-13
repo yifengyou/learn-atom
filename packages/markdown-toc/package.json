@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\YOUYIF~1\\AppData\\Local\\Temp\\d-118410-22724-1c8q9hy.m3ksinqaor\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\YOUYIF~1\\AppData\\Local\\Temp\\d-118410-22724-1c8q9hy.m3ksinqaor\\package.tgz",
+        "spec": "C:\\Users\\YOUYIF~1\\AppData\\Local\\Temp\\d-118410-22724-1c8q9hy.m3ksinqaor\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\YOUYIF~1\\AppData\\Local\\Temp\\apm-install-dir-118410-22724-1g6e7we.k4ax4unmi"
+    ]
+  ],
+  "_from": "..\\d-118410-22724-1c8q9hy.m3ksinqaor\\package.tgz",
+  "_id": "markdown-toc@0.4.2",
+  "_inCache": true,
+  "_location": "/markdown-toc",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\YOUYIF~1\\AppData\\Local\\Temp\\d-118410-22724-1c8q9hy.m3ksinqaor\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\YOUYIF~1\\AppData\\Local\\Temp\\d-118410-22724-1c8q9hy.m3ksinqaor\\package.tgz",
+    "spec": "C:\\Users\\YOUYIF~1\\AppData\\Local\\Temp\\d-118410-22724-1c8q9hy.m3ksinqaor\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-118410-22724-1c8q9hy.m3ksinqaor\\package.tgz",
+  "_shasum": "24ce8bea59fedc3ceca820de71e75409b8fd96c3",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\YOUYIF~1\\AppData\\Local\\Temp\\d-118410-22724-1c8q9hy.m3ksinqaor\\package.tgz",
+  "_where": "C:\\Users\\YOUYIF~1\\AppData\\Local\\Temp\\apm-install-dir-118410-22724-1g6e7we.k4ax4unmi",
+  "activationCommands": {
+    "atom-workspace": "markdown-toc:toggle"
+  },
+  "bugs": {
+    "url": "https://github.com/nok/markdown-toc/issues"
+  },
+  "dependencies": {},
+  "description": "Generate TOC (table of contents) of headlines from parsed markdown file",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/nok/markdown-toc",
+  "license": "MIT",
+  "main": "./lib/markdown-toc",
+  "name": "markdown-toc",
+  "optionalDependencies": {},
+  "readme": "# Markdown TOC\n\nGenerate TOC (*table of contents*) of headlines from parsed [markdown](http://en.wikipedia.org/wiki/Markdown) file.\n\n![Usage example](https://raw.githubusercontent.com/nok/markdown-toc/master/RECORD.gif)\n\n## Installation\n\n```bash\napm install markdown-toc\n```\n\n\n## Features\n\n- Auto linking via  anchor tags, e.g.  `# A 1` → `#a-1`\n- Depth control [1-6] with `depthFrom:1` and `depthTo:6`\n- Enable or disable links with `withLinks:1`\n- Refresh list on save with `updateOnSave:1`\n- Use ordered list (1. ..., 2. ...) with `orderedList:0`\n\n## Contributors\n\n- [spjoe](https://github.com/spjoe) (Feature: ordered list)\n- [brescia123](https://github.com/brescia123) (Feature: list range)\n\n## Questions?\n\nDon't be shy and feel free to contact me via [Twitter](https://twitter.com/darius_morawiec).\n\n\n## License\n\nThe package is Open Source Software released under the [License](LICENSE.md). It's developed by [Darius Morawiec](http://nok.onl).\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nok/markdown-toc.git"
+  },
+  "version": "0.4.2"
+}
