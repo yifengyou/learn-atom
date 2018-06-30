@@ -38,3 +38,7 @@ Atom 是github专门为程序员推出的一个跨平台文本编辑器。具有
 
 # 参考文章
   [Atom教程 w3cschool](https://www.w3cschool.cn/atom)
+  
+# 其他
+
+* 一直找不到一个办法，能够在Win上研究Linux源码。。虽然大佬都喜欢vim，没毛病，但是我想在Win上用Atom做笔记。切图方便。想想Ubuntu其实可以搞得
